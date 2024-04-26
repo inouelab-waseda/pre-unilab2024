@@ -16,5 +16,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        const int k = 0;
     }
 }
